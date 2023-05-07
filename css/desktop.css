@@ -1,0 +1,11 @@
+.container-counter {
+    font-size: 8rem;
+}
+
+.container-number{
+    font-size: 10rem;
+}
+
+.container-buttons * {
+    font-size: 3rem;
+}
